@@ -1,0 +1,9 @@
+---
+created: 2022-05-05T19:53:34+02:00
+modified: 2022-05-05T19:57:12+02:00
+type: Checklist
+---
+
+# Cel na 2040
+
+- [ ] Mieć 10m dolarów
