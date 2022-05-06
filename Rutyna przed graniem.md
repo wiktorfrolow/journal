@@ -6,7 +6,7 @@ type: Checklist
 
 # Rutyna przed graniem
 
-- [x] Praca domowa
-- [x] Brajan
-- [x] Scratch 
-- [x] Keybr
+- [ ] Praca domowa
+- [ ] Brajan
+- [ ] Scratch 
+- [ ] Keybr
