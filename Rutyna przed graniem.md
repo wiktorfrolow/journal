@@ -8,5 +8,5 @@ type: Checklist
 
 - [x] Praca domowa
 - [x] Brajan
-- [ ] Scratch 
-- [ ] Keybr
+- [x] Scratch 
+- [x] Keybr
