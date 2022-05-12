@@ -8,3 +8,4 @@ Dr
 - [ ] Skończyc dajmond pejting
 - [ ] Dać tacie 300zl od babci
 - [ ] Zyskać notatki
+- [ ] Wziąć paragon za zakupy 
