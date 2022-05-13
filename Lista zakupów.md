@@ -6,14 +6,14 @@ type: Checklist
 
 # Lista zakupów
 
-- [ ] Jabłka eko
-- [ ] Marchewki eko
-- [ ] Cebula eko
-- [ ] Pierś z kurczaka bez antybiotyków 
-- [ ] Ziemniaki 
-- [ ] Pomidorki koktajlowe eko
-- [ ] Pomidory eko
-- [ ] Gruszki
-- [ ] Śliwki eko
-- [ ] Awokado EKO miekkie
-- [ ] Kiełki grube 
+- [x] Jabłka eko
+- [x] Marchewki eko
+- [x] Cebula eko
+- [x] Pierś z kurczaka bez antybiotyków 
+- [x] Ziemniaki 
+- [x] Pomidorki koktajlowe eko
+- [x] Pomidory eko
+- [x] Gruszki
+- [x] Śliwki eko
+- [x] Awokado EKO miekkie
+- [x] Kiełki grube
