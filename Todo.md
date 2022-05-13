@@ -1,6 +1,4 @@
----
-type: Journal
----
+# Todo
 
 Dr
 - [ ] Zapytać o pracę domową 
