@@ -6,14 +6,4 @@ type: Checklist
 
 # Lista zakupów
 
-- [x] Jabłka eko
-- [x] Marchewki eko
-- [x] Cebula eko
-- [x] Pierś z kurczaka bez antybiotyków 
-- [x] Ziemniaki 
-- [x] Pomidorki koktajlowe eko
-- [x] Pomidory eko
-- [x] Gruszki
-- [x] Śliwki eko
-- [x] Awokado EKO miekkie
-- [x] Kiełki grube
+- [x] Maskarpone banany i musik i poczek dla nany
