@@ -10,3 +10,4 @@ Dr
 - [ ] Dać tacie 300zl od babci
 - [ ] Zbudować samochodzik drewniany
 - [ ] Skończyc dajmond pejting
+- [ ] Posprzątać kuchnie
