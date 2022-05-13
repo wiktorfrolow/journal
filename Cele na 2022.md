@@ -7,4 +7,4 @@ type: Checklist
 # Cele na 2022
 
 - [ ] Jestem szczupły od 31grudnia 2022
-- [ ] Dokończony rower defender od 1czerwca
+- [ ] Zrobiłem tower defender od 1czerwca
