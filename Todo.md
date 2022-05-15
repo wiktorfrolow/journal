@@ -13,3 +13,4 @@ Dr
 - [ ] Skończyc dajmond pejting
 - [x] Posprzątać kuchnie
 - [x] Kuweta
+- [ ] Dwie godziny gegry
