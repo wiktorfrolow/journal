@@ -12,3 +12,5 @@ type: Checklist
 - [x] Lubię siebie
 - [x]  od 14 czerwca mam nawyk ćwiczeń 
 - [x] Medytacja 5minut
+- [x] Głaskanie kotkow
+- [x] Woda 
