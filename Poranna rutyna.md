@@ -1,6 +1,6 @@
 ---
 created: 2022-05-03T06:48:29+02:00
-modified: 2022-05-14T07:47:01+02:00
+modified: 2022-05-15T07:23:45+02:00
 type: Checklist
 ---
 
@@ -12,5 +12,4 @@ type: Checklist
 - [x] Lubię siebie
 - [x]  od 14 czerwca mam nawyk ćwiczeń 
 - [x] Medytacja 5minut
-- [x] Głaskanie kotkow
-- [x] Woda 
+- [x] Woda
