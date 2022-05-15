@@ -11,3 +11,4 @@ Dr
 - [ ] Zbudować samochodzik drewniany
 - [ ] Skończyc dajmond pejting
 - [ ] Posprzątać kuchnie
+- [ ] Kuweta 
