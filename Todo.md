@@ -5,12 +5,12 @@ type: Checklist
 # Todo
 
 Dr
-- [ ] Cebula i jablko
-- [ ] Zapytać o pracę domową
+- [x] Cebula i jablko
+- [x] Zapytać o pracę domową
 - [x] Zagradz godzinę i nastawić budzik
-- [ ] Dać tacie 300zl od babci
+- [x] Dać tacie 300zl od babci
 - [ ] Zbudować samochodzik drewniany
-- [ ] Skończyc dajmond pejting
+- [x] Skończyc dajmond pejting
 - [x] Posprzątać kuchnie
 - [x] Kuweta
-- [ ] Dwie godziny gegry
+- [x] Dwie godziny gegry
