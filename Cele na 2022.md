@@ -1,6 +1,6 @@
 ---
 created: 2022-05-01T11:20:15+02:00
-modified: 2022-06-04T18:40:24+02:00
+modified: 2022-06-12T16:02:57+02:00
 type: Checklist
 ---
 
@@ -9,4 +9,5 @@ type: Checklist
 - [ ] Jestem szczupły od 31grudnia 2022
 - [ ] Zrobiłem tower defense od 31 grudnia 
 - [x] Od 18maja jestem zdrowy
-- [ ] Szybko piszę bezwzrokowo
+- [ ] Szybko piszę bezwzrokowo od 31 grudnia 
+- [ ] Jestem w klubie od 31 grudnia 
