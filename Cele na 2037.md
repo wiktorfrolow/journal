@@ -6,4 +6,4 @@ type: Checklist
 
 # Cele na 2037
 
-- [ ] Mam zdalnie sterowaną tesle
+- [ ] Mam autonomiczną tesle
