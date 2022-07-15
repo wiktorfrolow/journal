@@ -14,3 +14,4 @@ Dr
 - [x] Posprzątać kuchnie
 - [x] Kuweta
 - [x] Dwie godziny gegry
+- [ ] Poprosić tatę o duolingo plus
